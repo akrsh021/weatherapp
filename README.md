@@ -78,5 +78,9 @@ It was one of my first hands-on projects, developed to explore \*\*front-end web
 
 3\. Start searching for weather!
 
+## Live Weather App
+
+Check out the live app here: [Weather App](https://akrsh021.github.io/weatherapp/)
+
 
 
